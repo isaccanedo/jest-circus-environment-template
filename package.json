@@ -1,0 +1,30 @@
+{
+  "name": "jest-circus-reporter-template",
+  "version": "0.0.1",
+  "description": "<Provide your project description",
+  "repository": "<Provide a link to your repository>",
+  "author": "<Provide your author>",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rimraf dist && tsc",
+    "test": "yarn build && jest"
+  },
+  "dependencies": {
+    "@jest/environment": "^26.5.2",
+    "@jest/reporters": "^26.6.2",
+    "@jest/types": "^26.6.0",
+    "jest-circus": "^26.6.3",
+    "jest-environment-node": "^26.6.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "@types/node": "^14.14.32",
+    "jest": "^26.6.3",
+    "typescript": "^4.2.3"
+  }
+}
