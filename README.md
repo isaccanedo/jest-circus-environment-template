@@ -17,7 +17,7 @@ Se você preferir não usar este modelo, aqui está um [Gist](https://gist.githu
 git clone https://github.com/ryparker/jest-circus-environment-template.git jest-circus-environment && cd jest-circus-environment
 ```
 
-2. Install dependencies
+2. Instalar dependências
 
 ```shell
 yarn install
