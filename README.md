@@ -7,7 +7,7 @@ Um modelo para criar ambientes personalizados do Jest Circus.
 
 ## :spiral_notepad: Gist
 
-If you'd rather not use this template, here is a [Gist](https://gist.github.com/ryparker/d3f5cc58913ba7e89b5c34eeabc7bfd9) with the main interface for creating a Jest environment.
+Se você preferir não usar este modelo, aqui está um [Gist](https://gist.github.com/ryparker/d3f5cc58913ba7e89b5c34eeabc7bfd9) com a interface principal para criar um ambiente Jest.
 
 ## :rocket: Quick start
 
