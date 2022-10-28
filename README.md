@@ -3,7 +3,7 @@
 [![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 
-A template for creating custom Jest Circus environments.
+Um modelo para criar ambientes personalizados do Jest Circus.
 
 ## :spiral_notepad: Gist
 
